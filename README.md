@@ -12,6 +12,6 @@ The code could still have some bugs, so please tell me about them or contribute 
 
 #### Futures releases:
 
-1. **Check for open position:** If your computer crash you can restart the bot and it will automatically close the open position with the lowest lost and continue trading.
+1. **Check for open position:** If your computer crash you can restart the bot and it will automatically close the open position with a profit or the lowest lost posible and then continue trading.
 1. **Failsafe:** if you put an entry and the market goes down like there is no tomorrow after open X position it will automatically close operations in order to not lose all the money.
 1. **Auto profit**: this will choose automatically the best profit choice based on the last hours of trading.
