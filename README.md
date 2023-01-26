@@ -2,7 +2,7 @@
 
 #### Code writen in Python
 
-This python Trading Bot will perfom operations in the Futures Derivative of Binance. For now only opens Long positions, but you will figure how to do both ways. An advice is to at least have 6 times the money you wanna use on it, for example: if you cant to put 3 dolars have 18 in the futures wallet this is only to prevent margin calls.
+This python Trading Bot will perfom operations in the Futures Derivative of Binance. For now only opens Long positions, but you will figure how to do both ways. An advice is to at least have 6 times the money of the position you wanna open. i.e. Position: 3 / Total Wallet: 18
 
 It is a simple code, you can use it locally so you don't get your Keys Exposed in a hack of a thirth party company.
 
