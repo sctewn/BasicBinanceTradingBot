@@ -8,7 +8,7 @@ It is a simple code, you can use it locally so you don't get your Keys Exposed i
 
 This bot will save the details of the transaction in a csv file so you can keep track of it.
 
-The code could still have some bugs, so please tell me about them or contribute to improve it.
+The code could still have some bugs, so please tell me about them or contribute to improve it that would be even great!.
 
 #### Futures releases:
 
